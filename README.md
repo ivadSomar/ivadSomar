@@ -10,7 +10,7 @@ I am currently working as a fullstack software developer at Venturus. Really pas
 -  I also taught English and math to communities with little access to resources.
 
 <br style="border: 2px; ">
-<p align="center"><img src ="https://komarev.com/ghpvc/?username=daviSR99&style=for-the-badge&color=9B870C" /></p>
+<p align="center"><img src ="https://komarev.com/ghpvc/?username=ivadSomar&style=for-the-badge&color=9B870C" /></p>
 
  <details closed>
 <Summary>About me👈</Summary>
@@ -22,7 +22,7 @@ I am currently working as a fullstack software developer at Venturus. Really pas
 
 |My github statistics|Most used languages|Streaks|
 |-|-|-|
-|[![Peace's github stats](https://github-readme-stats.vercel.app/api?username=daviSR99&show_icons=true&theme=gruvbox&hide_title=true)](https://github.com/Cyebukayire)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daviSR99&show_icons=true&theme=gruvbox&hide_title=true)](https://github.com/Cyebukayire)|![daviSR99](https://github-readme-streak-stats.herokuapp.com/?user=daviSR99&theme=gruvbox)
+|[![Peace's github stats](https://github-readme-stats.vercel.app/api?username=ivadSomar&show_icons=true&theme=gruvbox&hide_title=true)](https://github.com/Cyebukayire)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivadSomar&show_icons=true&theme=gruvbox&hide_title=true)](https://github.com/Cyebukayire)|![ivadSomar](https://github-readme-streak-stats.herokuapp.com/?user=ivadSomar&theme=gruvbox)
 
 <!-- END SECTION -->
 
